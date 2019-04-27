@@ -5,6 +5,7 @@
 
 ```
 git clone https://github.com/TakaShinoda/beeenowiki
+cd beeenowiki
 yarn
 ```
 
